@@ -1,0 +1,5 @@
+*********************************************
+* This is a test file to practice using git *
+* from the desktop prior to adding personal *
+* projects and other work	            *
+*********************************************
